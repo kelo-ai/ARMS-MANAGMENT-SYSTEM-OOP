@@ -1,4 +1,7 @@
+
 # ARMS-MANAGMENT-SYSTEM-OOP
+=======
+>>>>>>> a603224 (Add README and project files)
 # 🔫 Arms Management System (C++ Project)
 
 This is a C++ console-based Arms Management System that allows users to manage weapon inventory, ammunition stock, and perform transaction operations like weapon issuance or returns. It uses basic file handling for data persistence.
@@ -30,7 +33,15 @@ This is a C++ console-based Arms Management System that allows users to manage w
 - CLI Interface
 
 ## 📁 File Structure
+<<<<<<< HEAD
 user.txt --> Stores user credentials
 weapondata.txt --> Stores weapon details
 ammodata.txt --> Stores ammunition data
 transactiondata.txt --> Stores transaction records
+=======
+
+user.txt --> Stores user credentials
+weapondata.txt --> Stores weapon details
+ammodata.txt --> Stores ammunition data
+transactiondata.txt --> Stores transaction records
+>>>>>>> a603224 (Add README and project files)
